@@ -3,6 +3,7 @@ setup two step verification with codeigniter And google authenticator
 
 Usage:
 // load library
+
 $this->load->library('GoogleAuthenticator');
 
 
